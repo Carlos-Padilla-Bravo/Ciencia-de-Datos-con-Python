@@ -84,7 +84,7 @@ El proyecto tiene a disposicón cuatro tablas (BBDD) con extensión xlsx. A cont
 5. precio_unitario: cuantitativo (int), continuo, estructurado, razón
 6. importe: cuantitativo (int), continuo, estructurado, razón
 
-**Notas adicionales:** No se observan valores faltantes en la BBDD de "detalle_ventas". Nótese que cada venta (id_venta) puede tener asociado más de un proructo (id_producto).
+**Notas adicionales:** No se observan valores faltantes en la BBDD de "detalle_ventas". Nótese que cada venta (id_venta) puede tener asociado más de un producto (id_producto).
 
 # Definicion del problema y solución
 
