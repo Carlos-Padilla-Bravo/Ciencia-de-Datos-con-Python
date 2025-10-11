@@ -56,6 +56,4 @@ Si encuentras algún error al ejecutar el programa:
 2. Verifica que Python esté instalado ejecutando `python --version` en la terminal
 3. Comprueba que todos los archivos estén en la misma carpeta
 
-## Contacto
-
-Si tienes problemas o sugerencias, puedes contactar al equipo de desarrollo.
+Si el problema persiste, revisa el código fuente para identificar posibles errores.
