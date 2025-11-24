@@ -33,6 +33,7 @@ class DocumentacionInteractiva:
                 # Asocia la subsección con la última sección de nivel 1 encontrada
                 ultima_seccion = list(secciones.values())[-1]
                 sub_idx = len(ultima_seccion["subsecciones"]) + 1
+                titulo = re.sub(r'^\d+\.\s*', '', titulo)
                 ultima_seccion["subsecciones"][sub_idx] = {"titulo": titulo, "texto": texto}
 
         return secciones
@@ -134,6 +135,6 @@ class DocumentacionInteractiva:
 
 if __name__ == "__main__":
     # La ruta al documento MD se pasa al inicializar la clase.
-    doc = DocumentacionInteractiva(ruta_documento="Documentación.md")
+    doc = DocumentacionInteractiva(ruta_documento="Documentación-v2.md")
     if doc.secciones:
         doc.mostrar_menu_principal()

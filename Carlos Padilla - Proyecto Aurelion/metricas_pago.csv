@@ -1,0 +1,5 @@
+medio_pago,n_transacciones,importe_total,ticket_promedio,desviacion_estandar,n_clientes_unicos,unidades_vendidas,primera_venta,ultima_venta
+efectivo,37,934819,25265.4,13174.4,30,345,2024-01-02,2024-06-28
+qr,30,714280,23809.3,13646.5,24,266,2024-01-04,2024-06-28
+transferencia,27,542219,20082.2,12759.5,24,218,2024-01-06,2024-06-27
+tarjeta,26,460099,17696.1,13108.4,18,187,2024-01-13,2024-06-25

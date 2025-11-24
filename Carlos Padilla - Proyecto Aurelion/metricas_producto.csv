@@ -1,0 +1,260 @@
+nueva_categoria,nombre_producto,mes_venta,n_ventas,unidades_vendidas,importe_total,importe_promedio,importe_std,precio_unitario,n_clientes_unicos
+Alimentos,Aceite de Girasol 1L,2024-01,2,7,6020,3010.0,608.1,860,2
+Alimentos,Aceite de Girasol 1L,2024-02,1,4,3440,3440.0,,860,1
+Alimentos,Aceite de Girasol 1L,2024-03,2,7,6020,3010.0,1824.3,860,2
+Alimentos,Aceite de Girasol 1L,2024-05,1,1,860,860.0,,860,1
+Alimentos,Aceitunas Negras 200g,2024-01,1,2,4788,4788.0,,2394,1
+Alimentos,Aceitunas Negras 200g,2024-02,1,4,9576,9576.0,,2394,1
+Alimentos,Aceitunas Negras 200g,2024-03,2,9,21546,10773.0,1692.8,2394,2
+Alimentos,Aceitunas Verdes 200g,2024-01,1,3,7560,7560.0,,2520,1
+Alimentos,Aceitunas Verdes 200g,2024-02,2,8,20160,10080.0,3563.8,2520,2
+Alimentos,Aceitunas Verdes 200g,2024-03,1,4,10080,10080.0,,2520,1
+Alimentos,Aceitunas Verdes 200g,2024-05,1,5,12600,12600.0,,2520,1
+Alimentos,Aceitunas Verdes 200g,2024-06,1,2,5040,5040.0,,2520,1
+Alimentos,Alfajor Simple,2024-02,1,2,5004,5004.0,,2502,1
+Alimentos,Alfajor Simple,2024-05,1,5,12510,12510.0,,2502,1
+Alimentos,Alfajor Triple,2024-05,1,2,2002,2002.0,,1001,1
+Alimentos,Arroz Largo Fino 1kg,2024-03,1,4,11916,11916.0,,2979,1
+Alimentos,Arroz Largo Fino 1kg,2024-05,1,2,5958,5958.0,,2979,1
+Alimentos,Arroz Largo Fino 1kg,2024-06,1,5,14895,14895.0,,2979,1
+Alimentos,Avena Instantánea 250g,2024-05,1,4,15812,15812.0,,3953,1
+Alimentos,Azúcar 1kg,2024-02,2,5,3635,1817.5,514.1,727,2
+Alimentos,Azúcar 1kg,2024-06,2,6,4362,2181.0,1028.1,727,2
+Alimentos,Barrita de Cereal 30g,2024-01,1,3,13290,13290.0,,4430,1
+Alimentos,Barrita de Cereal 30g,2024-03,1,2,8860,8860.0,,4430,1
+Alimentos,Barrita de Cereal 30g,2024-04,1,5,22150,22150.0,,4430,1
+Alimentos,Barrita de Cereal 30g,2024-06,1,1,4430,4430.0,,4430,1
+Alimentos,Bizcochos Salados,2024-02,2,9,21420,10710.0,1682.9,2380,2
+Alimentos,Bizcochos Salados,2024-05,1,4,9520,9520.0,,2380,1
+Alimentos,Caldo Concentrado Carne,2024-03,1,3,7710,7710.0,,2570,1
+Alimentos,Caldo Concentrado Carne,2024-05,1,5,12850,12850.0,,2570,1
+Alimentos,Caldo Concentrado Verdura,2024-02,1,4,4012,4012.0,,1003,1
+Alimentos,Caramelos Masticables,2024-01,1,5,23760,23760.0,,4752,1
+Alimentos,Caramelos Masticables,2024-02,2,3,14256,7128.0,3360.2,4752,2
+Alimentos,Caramelos Masticables,2024-03,1,4,19008,19008.0,,4752,1
+Alimentos,Caramelos Masticables,2024-06,1,2,9504,9504.0,,4752,1
+Alimentos,Chicle Menta,2024-01,1,1,3612,3612.0,,3612,1
+Alimentos,Chicle Menta,2024-05,2,7,25284,12642.0,2554.1,3612,2
+Alimentos,Chicle Menta,2024-06,2,11,39732,13244.0,5517.4,3612,2
+Alimentos,Chocolate Amargo 100g,2024-01,4,15,33510,8377.5,2138.9,2234,4
+Alimentos,Chocolate Amargo 100g,2024-04,1,3,6702,6702.0,,2234,1
+Alimentos,Chocolate con Leche 100g,2024-06,1,2,2510,2510.0,,1255,1
+Alimentos,Dulce de Leche 400g,2024-02,1,2,5118,5118.0,,2559,1
+Alimentos,Dulce de Leche 400g,2024-03,1,3,7677,7677.0,,2559,1
+Alimentos,Dulce de Leche 400g,2024-04,2,8,20472,10236.0,0.0,2559,2
+Alimentos,Dulce de Leche 400g,2024-05,1,2,5118,5118.0,,2559,1
+Alimentos,Dulce de Leche 400g,2024-06,1,1,2559,2559.0,,2559,1
+Alimentos,Empanadas Congeladas,2024-04,1,4,19112,19112.0,,4778,1
+Alimentos,Fideos Spaghetti 500g,2024-02,1,5,3725,3725.0,,745,1
+Alimentos,Fideos Spaghetti 500g,2024-06,1,4,2980,2980.0,,745,1
+Alimentos,Galletitas Chocolate,2024-03,1,1,1305,1305.0,,1305,1
+Alimentos,Galletitas Chocolate,2024-05,3,8,10440,3480.0,1993.4,1305,3
+Alimentos,Galletitas Chocolate,2024-06,1,2,2610,2610.0,,1305,1
+Alimentos,Galletitas Vainilla,2024-05,1,2,8030,8030.0,,4015,1
+Alimentos,Garbanzos 500g,2024-02,2,4,11756,5878.0,0.0,2939,2
+Alimentos,Garbanzos 500g,2024-04,1,3,8817,8817.0,,2939,1
+Alimentos,Garbanzos 500g,2024-05,1,4,11756,11756.0,,2939,1
+Alimentos,Granola 250g,2024-05,1,3,13011,13011.0,,4337,1
+Alimentos,Granola 250g,2024-06,1,3,13011,13011.0,,4337,1
+Alimentos,Hamburguesas Congeladas x4,2024-01,2,6,14520,7260.0,3422.4,2420,2
+Alimentos,Hamburguesas Congeladas x4,2024-03,2,9,21780,10890.0,1711.2,2420,2
+Alimentos,Hamburguesas Congeladas x4,2024-04,1,5,12100,12100.0,,2420,1
+Alimentos,Hamburguesas Congeladas x4,2024-06,1,4,9680,9680.0,,2420,1
+Alimentos,Harina de Trigo 1kg,2024-02,1,2,5024,5024.0,,2512,1
+Alimentos,Harina de Trigo 1kg,2024-03,1,4,10048,10048.0,,2512,1
+Alimentos,Helado Chocolate 1L,2024-03,1,5,6075,6075.0,,1215,1
+Alimentos,Helado Chocolate 1L,2024-06,1,5,6075,6075.0,,1215,1
+Alimentos,Helado Vainilla 1L,2024-01,1,4,1876,1876.0,,469,1
+Alimentos,Helado Vainilla 1L,2024-03,2,10,4690,2345.0,0.0,469,2
+Alimentos,Helado Vainilla 1L,2024-04,1,2,938,938.0,,469,1
+Alimentos,Helado Vainilla 1L,2024-05,1,2,938,938.0,,469,1
+Alimentos,Helado de Frutilla 1L,2024-01,2,6,11886,5943.0,2801.6,1981,2
+Alimentos,Helado de Frutilla 1L,2024-05,1,2,3962,3962.0,,1981,1
+Alimentos,Leche Descremada 1L,2024-03,1,1,2538,2538.0,,2538,1
+Alimentos,Leche Descremada 1L,2024-04,1,1,2538,2538.0,,2538,1
+Alimentos,Leche Descremada 1L,2024-06,1,3,7614,7614.0,,2538,1
+Alimentos,Leche Entera 1L,2024-04,1,2,3446,3446.0,,1723,1
+Alimentos,Leche Entera 1L,2024-05,1,3,5169,5169.0,,1723,1
+Alimentos,Lentejas Secas 500g,2024-02,1,5,15180,15180.0,,3036,1
+Alimentos,Manteca 200g,2024-05,1,1,3251,3251.0,,3251,1
+Alimentos,Manteca 200g,2024-06,1,3,9753,9753.0,,3251,1
+Alimentos,Maní Salado 200g,2024-03,1,3,14625,14625.0,,4875,1
+Alimentos,Medialunas de Manteca,2024-03,2,3,6207,3103.5,1463.0,2069,2
+Alimentos,Medialunas de Manteca,2024-04,1,3,6207,6207.0,,2069,1
+Alimentos,Medialunas de Manteca,2024-05,1,4,8276,8276.0,,2069,1
+Alimentos,Medialunas de Manteca,2024-06,1,5,10345,10345.0,,2069,1
+Alimentos,Mermelada de Durazno 400g,2024-04,1,3,9588,9588.0,,3196,1
+Alimentos,Mermelada de Durazno 400g,2024-05,1,3,9588,9588.0,,3196,1
+Alimentos,Mermelada de Durazno 400g,2024-06,1,3,9588,9588.0,,3196,1
+Alimentos,Mermelada de Frutilla 400g,2024-01,1,1,1584,1584.0,,1584,1
+Alimentos,Mermelada de Frutilla 400g,2024-02,1,3,4752,4752.0,,1584,1
+Alimentos,Mermelada de Frutilla 400g,2024-04,2,8,12672,6336.0,2240.1,1584,2
+Alimentos,Mermelada de Frutilla 400g,2024-05,1,3,4752,4752.0,,1584,1
+Alimentos,Mermelada de Frutilla 400g,2024-06,2,6,9504,4752.0,2240.1,1584,2
+Alimentos,Miel Pura 250g,2024-01,1,1,4982,4982.0,,4982,1
+Alimentos,Miel Pura 250g,2024-03,1,2,9964,9964.0,,4982,1
+Alimentos,Mix de Frutos Secos 200g,2024-01,1,3,10227,10227.0,,3409,1
+Alimentos,Mix de Frutos Secos 200g,2024-02,1,1,3409,3409.0,,3409,1
+Alimentos,Mix de Frutos Secos 200g,2024-04,1,1,3409,3409.0,,3409,1
+Alimentos,Mix de Frutos Secos 200g,2024-05,1,3,10227,10227.0,,3409,1
+Alimentos,Pan Lactal Blanco,2024-02,1,2,3142,3142.0,,1571,1
+Alimentos,Pan Lactal Blanco,2024-04,1,5,7855,7855.0,,1571,1
+Alimentos,Pan Lactal Blanco,2024-06,1,2,3142,3142.0,,1571,1
+Alimentos,Pan Lactal Integral,2024-01,1,4,1088,1088.0,,272,1
+Alimentos,Pan Lactal Integral,2024-03,1,1,272,272.0,,272,1
+Alimentos,Pan Lactal Integral,2024-04,1,2,544,544.0,,272,1
+Alimentos,Pan Lactal Integral,2024-06,1,4,1088,1088.0,,272,1
+Alimentos,Papas Fritas Clásicas 100g,2024-01,3,7,6552,2184.0,1429.8,936,3
+Alimentos,Papas Fritas Clásicas 100g,2024-04,1,1,936,936.0,,936,1
+Alimentos,Papas Fritas Clásicas 100g,2024-05,2,4,3744,1872.0,1323.7,936,2
+Alimentos,Papas Fritas Onduladas 100g,2024-01,2,6,11208,5604.0,5283.5,1868,2
+Alimentos,Papas Fritas Onduladas 100g,2024-04,1,1,1868,1868.0,,1868,1
+Alimentos,Pizza Congelada Muzzarella,2024-01,3,11,47146,15715.3,2474.5,4286,3
+Alimentos,Pizza Congelada Muzzarella,2024-02,1,4,17144,17144.0,,4286,1
+Alimentos,Pizza Congelada Muzzarella,2024-06,1,5,21430,21430.0,,4286,1
+Alimentos,Porotos Negros 500g,2024-02,1,1,4462,4462.0,,4462,1
+Alimentos,Porotos Negros 500g,2024-06,1,2,8924,8924.0,,4462,1
+Alimentos,Queso Azul 150g,2024-02,1,2,3290,3290.0,,1645,1
+Alimentos,Queso Azul 150g,2024-05,2,6,9870,4935.0,4652.8,1645,2
+Alimentos,Queso Cremoso 500g,2024-01,1,3,14502,14502.0,,4834,1
+Alimentos,Queso Cremoso 500g,2024-02,1,4,19336,19336.0,,4834,1
+Alimentos,Queso Cremoso 500g,2024-04,1,2,9668,9668.0,,4834,1
+Alimentos,Queso Rallado 150g,2024-01,2,6,20664,10332.0,4870.6,3444,2
+Alimentos,Queso Rallado 150g,2024-03,1,2,6888,6888.0,,3444,1
+Alimentos,Queso Rallado 150g,2024-05,2,5,17220,8610.0,2435.3,3444,2
+Alimentos,Queso Rallado 150g,2024-06,4,13,44772,11193.0,5881.7,3444,4
+Alimentos,Queso Untable 190g,2024-01,2,8,14640,7320.0,2588.0,1830,2
+Alimentos,Queso Untable 190g,2024-05,3,7,12810,4270.0,2795.4,1830,3
+Alimentos,Sal Fina 500g,2024-02,1,2,3490,3490.0,,1745,1
+Alimentos,Sal Fina 500g,2024-03,1,1,1745,1745.0,,1745,1
+Alimentos,Sal Fina 500g,2024-05,1,2,3490,3490.0,,1745,1
+Alimentos,Salsa de Tomate 500g,2024-01,1,5,4435,4435.0,,887,1
+Alimentos,Salsa de Tomate 500g,2024-02,3,11,9757,3252.3,1354.9,887,3
+Alimentos,Salsa de Tomate 500g,2024-03,1,5,4435,4435.0,,887,1
+Alimentos,Salsa de Tomate 500g,2024-04,1,1,887,887.0,,887,1
+Alimentos,Salsa de Tomate 500g,2024-05,1,5,4435,4435.0,,887,1
+Alimentos,Sopa Instantánea Pollo,2024-01,2,5,8395,4197.5,3561.7,1679,2
+Alimentos,Sopa Instantánea Pollo,2024-06,1,3,5037,5037.0,,1679,1
+Alimentos,Stevia 100 sobres,2024-05,2,6,23088,11544.0,10883.8,3848,2
+Alimentos,Turrón 50g,2024-01,1,5,2515,2515.0,,503,1
+Alimentos,Turrón 50g,2024-03,2,5,2515,1257.5,1067.0,503,2
+Alimentos,Turrón 50g,2024-05,1,5,2515,2515.0,,503,1
+Alimentos,Verduras Congeladas Mix,2024-02,1,4,17156,17156.0,,4289,1
+Alimentos,Verduras Congeladas Mix,2024-03,2,6,25734,12867.0,0.0,4289,2
+Alimentos,Vinagre de Alcohol 500ml,2024-03,1,4,4780,4780.0,,1195,1
+Alimentos,Yogur Natural 200g,2024-03,1,3,13839,13839.0,,4613,1
+Bebidas_Alcoholicas,Cerveza Negra 1L,2024-01,2,5,7665,3832.5,1084.0,1533,2
+Bebidas_Alcoholicas,Cerveza Negra 1L,2024-02,3,6,9198,3066.0,1533.0,1533,3
+Bebidas_Alcoholicas,Cerveza Rubia 1L,2024-01,1,4,9692,9692.0,,2423,1
+Bebidas_Alcoholicas,Cerveza Rubia 1L,2024-03,2,2,4846,2423.0,0.0,2423,2
+Bebidas_Alcoholicas,Cerveza Rubia 1L,2024-04,1,2,4846,4846.0,,2423,1
+Bebidas_Alcoholicas,Cerveza Rubia 1L,2024-05,1,5,12115,12115.0,,2423,1
+Bebidas_Alcoholicas,Fernet 750ml,2024-01,1,1,4061,4061.0,,4061,1
+Bebidas_Alcoholicas,Fernet 750ml,2024-02,1,2,8122,8122.0,,4061,1
+Bebidas_Alcoholicas,Fernet 750ml,2024-03,2,3,12183,6091.5,2871.6,4061,2
+Bebidas_Alcoholicas,Fernet 750ml,2024-06,1,3,12183,12183.0,,4061,1
+Bebidas_Alcoholicas,Gin 700ml,2024-04,1,3,4683,4683.0,,1561,1
+Bebidas_Alcoholicas,Gin 700ml,2024-05,1,5,7805,7805.0,,1561,1
+Bebidas_Alcoholicas,Ron 700ml,2024-01,2,7,27132,13566.0,8222.2,3876,2
+Bebidas_Alcoholicas,Ron 700ml,2024-02,1,5,19380,19380.0,,3876,1
+Bebidas_Alcoholicas,Ron 700ml,2024-04,2,6,23256,11628.0,10963.0,3876,2
+Bebidas_Alcoholicas,Ron 700ml,2024-05,1,1,3876,3876.0,,3876,1
+Bebidas_Alcoholicas,Ron 700ml,2024-06,1,2,7752,7752.0,,3876,1
+Bebidas_Alcoholicas,Vino Blanco 750ml,2024-01,1,5,13420,13420.0,,2684,1
+Bebidas_Alcoholicas,Vino Blanco 750ml,2024-02,2,9,24156,8052.0,5368.0,2684,2
+Bebidas_Alcoholicas,Vino Blanco 750ml,2024-06,1,8,21472,10736.0,3795.7,2684,1
+Bebidas_Alcoholicas,Vino Tinto Malbec 750ml,2024-03,1,4,18876,18876.0,,4719,1
+Bebidas_Alcoholicas,Vodka 700ml,2024-02,1,4,2032,2032.0,,508,1
+Bebidas_Alcoholicas,Whisky 750ml,2024-01,1,3,8859,8859.0,,2953,1
+Bebidas_Alcoholicas,Whisky 750ml,2024-02,1,3,8859,8859.0,,2953,1
+Bebidas_Alcoholicas,Whisky 750ml,2024-05,1,1,2953,2953.0,,2953,1
+Bebidas_Alcoholicas,Whisky 750ml,2024-06,1,1,2953,2953.0,,2953,1
+Bebidas_Calientes,Café Molido 250g,2024-02,2,3,6159,3079.5,1451.7,2053,2
+Bebidas_Calientes,Café Molido 250g,2024-05,2,4,8212,4106.0,0.0,2053,2
+Bebidas_Calientes,Café Molido 250g,2024-06,1,3,6159,6159.0,,2053,1
+Bebidas_Calientes,Té Negro 20 saquitos,2024-01,1,2,1140,1140.0,,570,1
+Bebidas_Calientes,Té Negro 20 saquitos,2024-02,1,1,570,570.0,,570,1
+Bebidas_Calientes,Té Negro 20 saquitos,2024-05,1,4,2280,2280.0,,570,1
+Bebidas_Calientes,Té Verde 20 saquitos,2024-01,3,8,19064,6354.7,4960.6,2383,3
+Bebidas_Calientes,Té Verde 20 saquitos,2024-02,1,2,4766,4766.0,,2383,1
+Bebidas_Calientes,Té Verde 20 saquitos,2024-04,1,1,2383,2383.0,,2383,1
+Bebidas_Calientes,Té Verde 20 saquitos,2024-06,1,3,7149,7149.0,,2383,1
+Bebidas_Calientes,Yerba Mate Intensa 1kg,2024-01,2,3,14649,7324.5,3452.8,4883,2
+Bebidas_Calientes,Yerba Mate Intensa 1kg,2024-02,1,2,9766,9766.0,,4883,1
+Bebidas_Calientes,Yerba Mate Intensa 1kg,2024-03,1,2,9766,9766.0,,4883,1
+Bebidas_Calientes,Yerba Mate Intensa 1kg,2024-05,1,1,4883,4883.0,,4883,1
+Bebidas_Calientes,Yerba Mate Suave 1kg,2024-01,2,7,27146,13573.0,8226.5,3878,2
+Bebidas_Calientes,Yerba Mate Suave 1kg,2024-05,2,6,23268,11634.0,5484.3,3878,2
+Bebidas_Calientes,Yerba Mate Suave 1kg,2024-06,2,7,27146,13573.0,2742.2,3878,2
+Bebidas_Frias,Agua Mineral 500ml,2024-05,3,9,42993,14331.0,4777.0,4777,3
+Bebidas_Frias,Coca Cola 1.5L,2024-01,1,4,9388,9388.0,,2347,1
+Bebidas_Frias,Coca Cola 1.5L,2024-02,1,5,11735,11735.0,,2347,1
+Bebidas_Frias,Energética Nitro 500ml,2024-03,2,5,21090,10545.0,2982.6,4218,2
+Bebidas_Frias,Energética Nitro 500ml,2024-04,1,2,8436,8436.0,,4218,1
+Bebidas_Frias,Energética Nitro 500ml,2024-05,1,1,4218,4218.0,,4218,1
+Bebidas_Frias,Energética Nitro 500ml,2024-06,2,9,37962,18981.0,2982.6,4218,2
+Bebidas_Frias,Fanta Naranja 1.5L,2024-02,2,6,12198,6099.0,2875.1,2033,2
+Bebidas_Frias,Fanta Naranja 1.5L,2024-03,1,2,4066,4066.0,,2033,1
+Bebidas_Frias,Fanta Naranja 1.5L,2024-06,2,8,16264,8132.0,2875.1,2033,2
+Bebidas_Frias,Jugo de Manzana 1L,2024-02,1,4,13076,13076.0,,3269,1
+Bebidas_Frias,Jugo de Manzana 1L,2024-03,1,1,3269,3269.0,,3269,1
+Bebidas_Frias,Jugo de Manzana 1L,2024-05,1,4,13076,13076.0,,3269,1
+Bebidas_Frias,Jugo de Manzana 1L,2024-06,1,5,16345,16345.0,,3269,1
+Bebidas_Frias,Jugo de Naranja 1L,2024-01,1,2,8340,8340.0,,4170,1
+Bebidas_Frias,Jugo de Naranja 1L,2024-05,2,9,37530,12510.0,8340.0,4170,2
+Bebidas_Frias,Jugo en Polvo Limón,2024-01,1,1,4090,4090.0,,4090,1
+Bebidas_Frias,Jugo en Polvo Limón,2024-03,1,5,20450,20450.0,,4090,1
+Bebidas_Frias,Jugo en Polvo Limón,2024-04,1,2,8180,8180.0,,4090,1
+Bebidas_Frias,Jugo en Polvo Limón,2024-06,1,4,16360,16360.0,,4090,1
+Bebidas_Frias,Jugo en Polvo Naranja,2024-01,1,1,1856,1856.0,,1856,1
+Bebidas_Frias,Jugo en Polvo Naranja,2024-04,1,1,1856,1856.0,,1856,1
+Bebidas_Frias,Jugo en Polvo Naranja,2024-06,1,3,5568,5568.0,,1856,1
+Bebidas_Frias,Pepsi 1.5L,2024-01,1,2,9946,9946.0,,4973,1
+Bebidas_Frias,Pepsi 1.5L,2024-05,1,5,24865,24865.0,,4973,1
+Bebidas_Frias,Pepsi 1.5L,2024-06,1,2,9946,9946.0,,4973,1
+Bebidas_Frias,Sprite 1.5L,2024-05,1,4,19856,19856.0,,4964,1
+Limpieza,Cepillo de Dientes,2024-02,2,6,12852,6426.0,0.0,2142,2
+Limpieza,Cepillo de Dientes,2024-05,1,3,6426,6426.0,,2142,1
+Limpieza,Crema Dental 90g,2024-03,1,3,7536,7536.0,,2512,1
+Limpieza,Crema Dental 90g,2024-05,2,8,20096,10048.0,0.0,2512,2
+Limpieza,Crema Dental 90g,2024-06,1,1,2512,2512.0,,2512,1
+Limpieza,Desengrasante 500ml,2024-01,2,5,14215,7107.5,6030.9,2843,2
+Limpieza,Desengrasante 500ml,2024-03,1,2,5686,5686.0,,2843,1
+Limpieza,Desengrasante 500ml,2024-04,1,3,8529,8529.0,,2843,1
+Limpieza,Desengrasante 500ml,2024-05,1,2,5686,5686.0,,2843,1
+Limpieza,Desengrasante 500ml,2024-06,1,3,8529,8529.0,,2843,1
+Limpieza,Desodorante Aerosol,2024-01,2,7,32830,16415.0,3316.3,4690,2
+Limpieza,Desodorante Aerosol,2024-02,1,2,9380,9380.0,,4690,1
+Limpieza,Desodorante Aerosol,2024-03,1,3,14070,14070.0,,4690,1
+Limpieza,Desodorante Aerosol,2024-04,1,4,18760,18760.0,,4690,1
+Limpieza,Desodorante Aerosol,2024-05,1,2,9380,9380.0,,4690,1
+Limpieza,Desodorante Aerosol,2024-06,1,2,9380,9380.0,,4690,1
+Limpieza,Detergente Líquido 750ml,2024-01,1,2,5164,5164.0,,2582,1
+Limpieza,Hilo Dental,2024-02,1,3,4254,4254.0,,1418,1
+Limpieza,Hilo Dental,2024-06,1,4,5672,5672.0,,1418,1
+Limpieza,Jabón de Tocador,2024-01,1,5,7960,7960.0,,1592,1
+Limpieza,Jabón de Tocador,2024-03,1,5,7960,7960.0,,1592,1
+Limpieza,Lavandina 1L,2024-01,2,9,14976,7488.0,1176.6,1664,2
+Limpieza,Lavandina 1L,2024-03,2,3,4992,2496.0,1176.6,1664,2
+Limpieza,Lavandina 1L,2024-04,1,2,3328,3328.0,,1664,1
+Limpieza,Lavandina 1L,2024-05,1,2,3328,3328.0,,1664,1
+Limpieza,Lavandina 1L,2024-06,1,5,8320,8320.0,,1664,1
+Limpieza,Limpiavidrios 500ml,2024-02,2,9,7848,3924.0,616.6,872,2
+Limpieza,Limpiavidrios 500ml,2024-04,2,6,5232,2616.0,2466.4,872,2
+Limpieza,Mascarilla Capilar,2024-02,1,4,6324,6324.0,,1581,1
+Limpieza,Mascarilla Capilar,2024-04,1,5,7905,7905.0,,1581,1
+Limpieza,Mascarilla Capilar,2024-05,1,3,4743,4743.0,,1581,1
+Limpieza,Mascarilla Capilar,2024-06,1,2,3162,3162.0,,1581,1
+Limpieza,Papel Higiénico x4,2024-06,2,5,12660,6330.0,1790.4,2532,2
+Limpieza,Servilletas x100,2024-01,1,4,18080,18080.0,,4520,1
+Limpieza,Servilletas x100,2024-02,1,3,13560,13560.0,,4520,1
+Limpieza,Servilletas x100,2024-06,1,1,4520,4520.0,,4520,1
+Limpieza,Shampoo 400ml,2024-01,1,1,1407,1407.0,,1407,1
+Limpieza,Shampoo 400ml,2024-04,2,3,4221,2110.5,994.9,1407,2
+Limpieza,Shampoo 400ml,2024-05,1,5,7035,7035.0,,1407,1
+Limpieza,Toallas Húmedas x50,2024-03,2,8,23216,11608.0,0.0,2902,2
+Limpieza,Toallas Húmedas x50,2024-05,1,3,8706,8706.0,,2902,1
+Limpieza,Toallas Húmedas x50,2024-06,1,1,2902,2902.0,,2902,1
+Limpieza,Trapo de Piso,2024-02,2,3,14562,7281.0,3432.3,4854,2
+Limpieza,Trapo de Piso,2024-05,1,4,19416,19416.0,,4854,1
+Limpieza,Trapo de Piso,2024-06,1,4,19416,19416.0,,4854,1

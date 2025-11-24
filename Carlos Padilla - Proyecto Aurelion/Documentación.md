@@ -72,7 +72,7 @@ El proyecto tiene a disposicón cuatro tablas (BBDD) con extensión xlsx. A cont
 
 - Nombre de la BBDD: detalle_ventas
 - Cantidad de columnas: 6 columnas
-- Cantidad de observaciones (filas): 120 obervaciones o registros
+- Cantidad de observaciones (filas): 343 obervaciones o registros
 - Archivo con extensión xlsx
 
  Esta BBDD contiene las siguientes variables dispuestas en columnas en el siguiente orden. Además se detalla el tipo de dato contendio en cada variable o columna:
